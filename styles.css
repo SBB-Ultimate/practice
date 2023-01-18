@@ -6,14 +6,24 @@ a {
     text-decoration: none;
 }
 .logo {
-    margin-top: 25px;
-    margin-left: 10px;
+    position: relative;
+    left: 40px;
+    top: 20px;
 }
 .header {
     margin-left: 50px;
+    position: relative;
+    left: 275px;
+    bottom: 8px;
+    font-size: 20px;
 }
-.process {
-    margin-left: 200px;
+.line {
+    border: 6px solid gray;
+    border-width: 0.1px;
+    height: 70%;
+    position: relative;
+    left: 260px;
+    bottom: 7px;
 }
 .login {
     height: 40px;
@@ -21,12 +31,11 @@ a {
     border-radius: 20px;
     position: relative;
     left: 1200px;
-    top: -55px;
+    top: -40px;
     background-color: white;
     border: 0.5px solid grey;
 }
 .login:hover {
     background-color: blue;
     color: white;
-
 }
