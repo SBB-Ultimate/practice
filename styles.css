@@ -6,6 +6,12 @@ a {
     text-decoration: none;
 }
 .logo {
-    margin-top: 5px;
+    margin-top: 25px;
     margin-left: 10px;
+}
+.header {
+    margin-left: 50px;
+}
+.process {
+    margin-left: 200px;
 }
