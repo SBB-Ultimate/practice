@@ -39,3 +39,10 @@ a {
     background-color: blue;
     color: white;
 }
+.pro {
+    font-size: 30px;
+    margin-left: 35px;
+}
+.duc {
+    display: block;
+}
