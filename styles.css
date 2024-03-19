@@ -38,6 +38,7 @@ a {
 .login:hover {
     background-color: blue;
     color: white;
+    cursor: pointer;
 }
 .pro {
     font-size: 30px;
