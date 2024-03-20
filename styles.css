@@ -30,7 +30,7 @@ a {
     width: 75px;
     border-radius: 20px;
     position: relative;
-    left: 1200px;
+    left: 850px;
     top: -40px;
     background-color: white;
     border: 0.5px solid grey;
@@ -41,9 +41,19 @@ a {
     cursor: pointer;
 }
 .pro {
-    font-size: 30px;
+    font-size: 35px;
     margin-left: 35px;
+    margin-top: 10%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .duc {
-    display: block;
+    margin-top: -2%;
+}
+.image {
+    border: 1px solid black;
+    width: 30%;
+}
+.join {
+    margin-left: 35px;
 }
